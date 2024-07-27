@@ -39,10 +39,8 @@ body,
 html {
     width: 100%;
 	height: 100%;
-}
 
-.aos{
-	overflow-x: hidden;
+
 }
 
 body, p {
@@ -1194,6 +1192,12 @@ a:hover.back-to-top {
 	}
 	/* end of header */
 
+	
+	[data-aos="fade-right"], [data-aos="fade-left"] {
+		transform: translateX(0); /* Prevenire lo spostamento laterale */
+		opacity: 1; /* Assicurarsi che l'elemento sia visibile */
+		transition: opacity 0.4s ease-in-out; /* Aggiungere una transizione di opacità per mantenere un po' di animazione */
+	}
 
 	/* Details 2 */
 	.basic-2 .text-container {

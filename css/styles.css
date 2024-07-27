@@ -1191,14 +1191,9 @@ a:hover.back-to-top {
 		margin-bottom: 9rem;
 	}
 	/* end of header */
-
-	
-	[data-aos="fade-right"], [data-aos="fade-left"] {
-		transform: translateX(0); /* Prevenire lo spostamento laterale */
-		opacity: 1; /* Assicurarsi che l'elemento sia visibile */
-		transition: opacity 0.4s ease-in-out; /* Aggiungere una transizione di opacità per mantenere un po' di animazione */
+	body{
+		overflow-x: hidden;
 	}
-
 	/* Details 2 */
 	.basic-2 .text-container {
 		max-width: 690px;

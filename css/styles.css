@@ -1186,7 +1186,9 @@ a:hover.back-to-top {
 	.header {
 		padding-top: 10rem;
 	}
-
+	body{
+		overflow-x: hidden;
+	}
 	.header .text-container {
 		margin-bottom: 9rem;
 	}
@@ -1230,6 +1232,10 @@ a:hover.back-to-top {
 		width: 35.25rem;
 		margin-right: auto;
 		margin-left: auto;
+	}
+
+	body{
+		overflow-x: hidden;
 	}
 
 	.p-heading {
@@ -1454,6 +1460,10 @@ a:hover.back-to-top {
 	/* end of navigation */
 
 
+	body{
+		overflow-x: hidden;
+	}
+	
 	/* Header */
 	.header {
 		position: relative;

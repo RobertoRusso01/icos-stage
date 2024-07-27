@@ -179,9 +179,9 @@ a:hover {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-	border: 1px solid #c2337b;
+	border: 1px solid #5499c7;
 	border-radius: 32px;
-	background-color: #c2337b;
+	background-color: #5499c7;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -192,7 +192,7 @@ a:hover {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #c2337b; /* needs to stay here because of the color property of a tag */
+	color: #5499c7; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 

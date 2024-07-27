@@ -1185,11 +1185,9 @@ a:hover.back-to-top {
 	/* Header */
 	.header {
 		padding-top: 10rem;
-		overflow-x: hidden;
+		
 	}
-	body{
-		overflow-x: hidden;
-	}
+	
 	.header .text-container {
 		margin-bottom: 9rem;
 	}
@@ -1215,10 +1213,6 @@ a:hover.back-to-top {
 	}
 	/* end of contact */
 
-	.hideOverflowOnMobile {
-		overflow: hidden;
-		}
-		
 	/* Extra Pages */
 	.ex-basic-1 .text-box {
 		padding: 1.75rem 2rem 0.875rem 2rem;
@@ -1238,9 +1232,6 @@ a:hover.back-to-top {
 		margin-left: auto;
 	}
 
-	body{
-		overflow-x: hidden;
-	}
 
 	.p-heading {
 		width: 46rem;
@@ -1317,7 +1308,6 @@ a:hover.back-to-top {
 	.header {
 		padding-top: 14rem;
 		text-align: left;
-		overflow: hidden;
 	}
 
 	.header .image-container {
@@ -1465,16 +1455,12 @@ a:hover.back-to-top {
 	/* end of navigation */
 
 
-	body{
-		overflow-x: hidden;
-	}
 	
 	/* Header */
 	.header {
 		position: relative;
 		padding-top: 15.5rem;
 		padding-bottom: 26rem;
-		overflow-x: hidden;
 	}
 
 	.header .text-container {

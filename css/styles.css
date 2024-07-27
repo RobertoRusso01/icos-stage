@@ -1215,7 +1215,10 @@ a:hover.back-to-top {
 	}
 	/* end of contact */
 
-
+	.hideOverflowOnMobile {
+		overflow: hidden;
+		}
+		
 	/* Extra Pages */
 	.ex-basic-1 .text-box {
 		padding: 1.75rem 2rem 0.875rem 2rem;

@@ -1185,6 +1185,7 @@ a:hover.back-to-top {
 	/* Header */
 	.header {
 		padding-top: 10rem;
+		overflow-x: hidden;
 	}
 	body{
 		overflow-x: hidden;
@@ -1313,6 +1314,7 @@ a:hover.back-to-top {
 	.header {
 		padding-top: 14rem;
 		text-align: left;
+		overflow: hidden;
 	}
 
 	.header .image-container {
@@ -1469,6 +1471,7 @@ a:hover.back-to-top {
 		position: relative;
 		padding-top: 15.5rem;
 		padding-bottom: 26rem;
+		overflow-x: hidden;
 	}
 
 	.header .text-container {

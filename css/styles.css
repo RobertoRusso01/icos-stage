@@ -1191,9 +1191,7 @@ a:hover.back-to-top {
 		margin-bottom: 9rem;
 	}
 	/* end of header */
-	body{
-		overflow-x: hidden;
-	}
+	
 	/* Details 2 */
 	.basic-2 .text-container {
 		max-width: 690px;

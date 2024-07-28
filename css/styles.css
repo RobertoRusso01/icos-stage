@@ -45,7 +45,7 @@ html {
 
 body, p {
 	color: #1e1e1e; 
-	font: 400 1rem/1.625rem "Lora", sans-serif;
+	font: 400 1rem/1.625rem -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 h1 {
@@ -748,7 +748,7 @@ input[type='checkbox'] {
 	height: auto;
 	color: #ffffff;
 	opacity: 1;
-	font-family: "Lora";
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .lightbox-basic .btn-solid-reg.mfp-close:hover {
@@ -767,7 +767,7 @@ input[type='checkbox'] {
 	border: 1px solid #000000;
 	color: #000000;
 	opacity: 1;
-	font-family: "Lora";
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .lightbox-basic .btn-outline-reg.mfp-close.as-button:hover {
